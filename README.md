@@ -304,5 +304,5 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
-Made with ❤️ by Uppu Palachakravarthi
+Made with ❤️ by Masthan S~
 </p>
