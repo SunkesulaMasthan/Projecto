@@ -192,7 +192,7 @@ BrainTumorProject
 
 ```bash
 # Clone Repository
-git clone https://github.com/palachakravarthi/brain-tumor-detection-end-to-end.git
+git clone https://github.com/SunkesulaMasthan/Projecto
 
 # Move to Project Directory
 cd BrainTumorProject
@@ -283,13 +283,13 @@ Special thanks to the dataset author for making this resource publicly available
 
 # 👨‍💻 Author
 
-**Uppu Palachakravarthi**
+**Sunkesula Masthan**
 
 B.Tech Computer Science & Engineering
 
 AI • Machine Learning • Deep Learning
 
-GitHub: https://github.com/palachakravarthi
+GitHub: https://github.com/SunkesulaMasthan
 
 ---
 
